@@ -7,6 +7,8 @@ Esee projeto como objetivo entender estruturação de projetos, css... Criando u
 
 * [Explanação](#Explanação de codigos)
 
+* [Como usar](#Como-usar)
+
 * [Tecnologias-utilizadas](#tecnologias-utilizadas)
   
 * [Sites-utilizados](#sites-utilizados)
@@ -36,8 +38,14 @@ O java foi usado com as seguintes funções:
     
     -'getSearchedTodos' e filterTodos ajudam na pesquisa e filtragem de tarefas com base no texto inserido ou na opção selecionada.
 
+# Como Usar
+
+    Para utilizar a aplicação, basta abrir o arquivo index.html em um navegador da web compatível. A partir daí, o usuário pode adicionar novas tarefas, marcar como concluídas, editar ou excluir tarefas existentes, pesquisar por tarefas específicas e filtrar tarefas por status.
+
 # Tecnologias utilizadas
 
     - HTML5, CC3, JS
 
 # Referencia
+
+    video: https://youtu.be/HSssE1PRQcA?si=Nw4SlpbrjLWE7iml
