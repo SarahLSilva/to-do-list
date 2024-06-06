@@ -5,10 +5,10 @@ Esee projeto como objetivo entender estruturação de projetos, css... Criando u
 
 Na atividade realizamos uma lista qual, fazemos coisas basicas, como;
 
-    - adicionar uma tarefa
-    - procurar uma tarefa
-    - filtrar tarefas
-    - excluir tarefas
+    -Envio de formulário de adição de nova tarefa.
+    -Cliques em botões para marcar como feito, editar ou excluir uma tarefa.
+    -Digitação no campo de busca.   
+    -Seleção de opção no filtro de tarefas.
 
 explanação de codigos;
 
