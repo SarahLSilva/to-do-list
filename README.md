@@ -1,20 +1,15 @@
 # to-do-list
+![banner](img/Captura%20de%20tela_13-6-2024_84240_127.0.0.1.jpeg)
 Esee projeto como objetivo entender estruturação de projetos, css... Criando uma lista de eventos, exercitando os fundamentos da web.
 
 # indicie
 
 * [Introdução](#introdução)
-
-* [Explanação](#Explanação de codigos)
-
+* [Explanação](#explanação-de-codigos)
 * [Como usar](#Como-usar)
-
 * [Tecnologias-utilizadas](#tecnologias-utilizadas)
-  
 * [Sites-utilizados](#sites-utilizados)
-
 * [Referencia](#referencia)
-
 * [Detalhes](#detalhes)
 
 # Introdução
